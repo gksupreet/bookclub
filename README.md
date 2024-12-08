@@ -1,2 +1,2 @@
 # bookclub
-People can come along and dicuss about books they read! 
+People can come along and discuss about books they read! 
